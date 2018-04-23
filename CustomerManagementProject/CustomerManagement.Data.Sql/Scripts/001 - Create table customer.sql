@@ -1,0 +1,8 @@
+﻿CREATE TABLE Customer
+(
+Id INT IDENTITY(1,1) CONSTRAINT PK_Customer_Id PRIMARY KEY,
+CustomerName VARCHAR(MAX),
+CustomerAddress VARCHAR(MAX),
+Mobile INT,
+Email VARCHAR(MAX)
+)

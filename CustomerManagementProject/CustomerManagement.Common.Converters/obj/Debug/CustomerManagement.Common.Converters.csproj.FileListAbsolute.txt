@@ -1,0 +1,16 @@
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Common.Converters.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Common.Converters.pdb
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\AutoMapper.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Common.Objects.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Data.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\EntityFramework.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Common.Objects.pdb
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Data.pdb
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\CustomerManagement.Data.dll.config
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\AutoMapper.xml
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\bin\Debug\EntityFramework.xml
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\obj\Debug\CustomerManagement.Common.Converters.csprojResolveAssemblyReference.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\obj\Debug\CustomerManagement.Common.Converters.csproj.CoreCompileInputs.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\obj\Debug\CustomerManagement.Common.Converters.csproj.CopyComplete
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\obj\Debug\CustomerManagement.Common.Converters.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Converters\obj\Debug\CustomerManagement.Common.Converters.pdb

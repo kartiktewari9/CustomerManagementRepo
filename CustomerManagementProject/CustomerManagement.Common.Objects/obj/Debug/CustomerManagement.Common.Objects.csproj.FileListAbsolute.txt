@@ -1,0 +1,6 @@
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\bin\Debug\CustomerManagement.Common.Objects.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\bin\Debug\CustomerManagement.Common.Objects.pdb
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\obj\Debug\CustomerManagement.Common.Objects.csprojResolveAssemblyReference.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\obj\Debug\CustomerManagement.Common.Objects.csproj.CoreCompileInputs.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\obj\Debug\CustomerManagement.Common.Objects.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Common.Objects\obj\Debug\CustomerManagement.Common.Objects.pdb

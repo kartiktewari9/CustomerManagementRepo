@@ -1,0 +1,14 @@
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\CustomerManagement.Data.Sql.exe.config
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\CustomerManagement.Data.Sql.exe
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\CustomerManagement.Data.Sql.pdb
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\dbup-core.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\dbup-sqlserver.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\EntityFramework.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\EntityFramework.xml
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\obj\Debug\CustomerManagement.Data.Sql.csprojResolveAssemblyReference.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\obj\Debug\CustomerManagement.Data.Sql.csproj.CoreCompileInputs.cache
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\obj\Debug\CustomerManagement.Data.Sql.csproj.CopyComplete
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\obj\Debug\CustomerManagement.Data.Sql.exe
+F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data.Sql\obj\Debug\CustomerManagement.Data.Sql.pdb
