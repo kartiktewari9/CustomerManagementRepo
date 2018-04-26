@@ -10,3 +10,15 @@ F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data\obj\Debug
 F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.csproj.CopyComplete
 F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.dll
 F:\Projects\Practise\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.pdb
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\CustomerManagement.Data.dll.config
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\CustomerManagement.Data.dll
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\CustomerManagement.Data.pdb
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\EntityFramework.dll
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\EntityFramework.xml
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.csprojResolveAssemblyReference.cache
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.csproj.CoreCompileInputs.cache
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.csproj.CopyComplete
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.dll
+F:\Projects\CustomerManagementRepo\CustomerManagementProject\CustomerManagement.Data\obj\Debug\CustomerManagement.Data.pdb

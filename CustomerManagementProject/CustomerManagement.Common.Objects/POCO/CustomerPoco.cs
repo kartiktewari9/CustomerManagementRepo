@@ -12,6 +12,6 @@ namespace CustomerManagement.Common.Objects.POCO
         public string CustomerName { get; set; }
         public string CustomerAddress { get; set; }
         public string Email { get; set; }
-        public int Phone { get; set; }
+        public int Mobile { get; set; }
     }
 }
